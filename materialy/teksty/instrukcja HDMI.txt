@@ -1,0 +1,11 @@
+1. 🔴 Bezpieczeństwo: Upewnij się, że monitor i laptop są ustawione stabilnie. Czy monitor ma podłączone zasilanie? Jeśli nie, poproś nauczyciela o pomoc.
+
+2. 🟠 Przewód: Znajdź przewód HDMI. Dopasuj jego wtyczki do gniazd HDMI w laptopie i monitorze.
+
+3. 🟡 Podłączenie: Podłącz przewód HDMI do laptopa i monitora. Nie wciskaj wtyczek na siłę.
+
+4. 🟢 Źródło obrazu: Włącz monitor i wybierz w jego menu źródło HDMI.
+
+5. 🔵 Obraz: Uruchom laptop. Sprawdź, czy obraz pojawia się na monitorze. Jeśli nie, poproś nauczyciela o pomoc.
+
+6. 🟣 Rozdzielczość: Otwórz ustawienia ekranu w laptopie. Sprawdź rozdzielczość monitora i w razie potrzeby wybierz zalecaną wartość dostępną w ustawieniach.
